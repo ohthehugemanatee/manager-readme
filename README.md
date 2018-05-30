@@ -84,6 +84,8 @@ Punctuality is not required - anytime in the first 5 minutes of a meeting is "on
 
 I expect my reports to have predictable work hours. I don't mind or care when they are, exactly, but they should follow a pattern which you communicate with me. Let me know about exceptions, and note them in your calendar.
 
+I normally schedule meetings as 50 minute time slots, rather than an hour. My brain needs cool-off and prep time between tasks!
+
 "At work" for all my reports means "logged into chat." Use whichever chat system is the norm on our team (IRC, Slack, or Teams). You do not have to be *available* - you may have meetings, or coding time, and the chat application may be in Do Not Disturb mode. But you should be virtually present. 
 
 **Never drop a meeting on my calendar without separately communicating with me about it.** This is partially respect, but also simply giving me the option to tell you personally if that is a good time. My "accepted" status on the meeting is almost meaningless.
