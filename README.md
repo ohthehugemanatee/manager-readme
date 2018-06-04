@@ -23,7 +23,7 @@ I have one kid (so far). His name is Perry, born in 2015, and (so far) he's into
 My philosophy
 ---
 
-I believe that a good leader is the head of their wolf pack. Pack members think and operate individually, but chase the biggest prey by working together. My pack thrives on:
+**I believe that a good leader is the head of their wolf pack.** Pack members think and operate individually, but chase the biggest prey by working together. My pack thrives on:
 
 * Mutual respect and trust.
 * Enabling and celebrating each others' victories.
@@ -74,45 +74,29 @@ The truth is, you have reached mastery when it is play. When it is fun to do. An
 Meetings and Work
 ---
 
-My working hours are typically 9 - 5, Central European Time. If I am physically in another timezone, these hours will adjust.  These periods are noted on my calendar.
-
-Rescheduling a meeting at the last minute is OK; standing your team up is not.
-
-My schedule is often crazy, split across timezones and travel legs. Our recurring meetings are reminders to *have* the meeting - they will often be rescheduled.
-
-Punctuality is not required - anytime in the first 5 minutes of a meeting is "on time" in my book. Please understand that I mean no disrespect when I show up 3 minutes late, myself.
-
-I expect my reports to have predictable work hours. I don't mind or care when they are, exactly, but they should follow a pattern which you communicate with me. Let me know about exceptions, and note them in your calendar.
-
-I normally schedule meetings as 50 minute time slots, rather than an hour. My brain needs cool-off and prep time between tasks!
-
-"At work" for all my reports means "logged into chat." Use whichever chat system is the norm on our team (IRC, Slack, or Teams). You do not have to be *available* - you may have meetings, or coding time, and the chat application may be in Do Not Disturb mode. But you should be virtually present. 
-
-**Never drop a meeting on my calendar without separately communicating with me about it.** This is partially respect, but also simply giving me the option to tell you personally if that is a good time. My "accepted" status on the meeting is almost meaningless.
-
-My calendar is often packed, but **the pack is my highest priority**. If you need my help, please ping me through any channel and I will make the time.
-
-Writing code - writing anything, really - requires large blocks of time. Please proactively block off days in your schedule, so I don't interrupt your real work with my meetings.
+* My working hours are typically 9 - 5, Central European Time. If I am physically in another timezone, these hours will adjust.  These periods are noted on my calendar.
+* Rescheduling a meeting at the last minute is OK; leaving your team hanging is not.
+* My schedule is often crazy, split across timezones and travel legs. Our recurring meetings are reminders to *have* the meeting - they will often be rescheduled.
+* Punctuality is not required - anytime in the first 5 minutes of a meeting is "on time" in my book. Please understand that I mean no disrespect when I show up 3 minutes late, myself.
+* I expect my reports to have predictable work hours. I don't mind or care when they are, exactly, but they should follow a pattern which you communicate with me. Let me know about exceptions, and note them in your calendar.
+* I normally schedule meetings as 50 minute time slots, rather than an hour. My brain needs cool-off and prep time between tasks!
+* "At work" for all my reports means "logged into chat." Use whichever chat system is the norm on our team (IRC, Slack, or Teams). You do not have to be *available* - you may have meetings, or coding time, and the chat application may be in Do Not Disturb mode. But you should be virtually present. 
+* **Never drop a meeting on my calendar without separately communicating with me about it.** This is partially respect, but also simply giving me the option to tell you personally if that is a good time. My "accepted" status on the meeting is almost meaningless.
+* My calendar is often packed, but **the pack is my highest priority**. If you need my help, please ping me through any channel and I will make the time.
+* Writing code - writing anything, really - requires large blocks of time. Please proactively block off days in your schedule, so I don't interrupt your real work with my meetings.
 
 Communication
 ---
 
-**I prefer open and frank communication at all times.** We can talk about anything at all, but when problems arise I need you to let me know as clearly and quickly as possible.
-
-**I am often a big, bombastic personality.** If you ever feel uncomfortable with me, or my behavior, please let me know. I am happy to tone it down for you.
-
-**I often ask "why."** This isn't a challenge to your decision, it's an honest question! I want to understand the thought process behind your code.
-
-**Different communication tools are suited for different kinds of communication.** Chat (IRC, Slack, Teams) is the default, but we can switch modes when appropriate.
-
+* **I prefer open and frank communication at all times.** We can talk about anything at all, but when problems arise I need you to let me know as clearly and quickly as possible.
+* **I am often a big, bombastic personality.** If you ever feel uncomfortable with me, or my behavior, please let me know. I am happy to tone it down for you.
+* **I often ask "why."** This isn't a challenge to your decision, it's an honest question! I want to understand the thought process behind your code.
+* **Different communication tools are suited for different kinds of communication.** Chat (IRC, Slack, Teams) is the default, but we can switch modes when appropriate.
 * Email and digital text are great for lists (like this one!), records, and precise factual communication. They are terrible for emotion, context, and human subjects.
 * Sensitive and important subjects require non-verbal cues. That means in-person, video-conference, or audio (in order of preference). 
-
-**I'm big on work/life balance**. I do not expect you to respond outside of your usual working hours, and I typically don't, either. 
-
-**Never ping me on Skype for Business.** It's an incompatible, unreliable application. I don't leave it running, don't check the messages, and don't respond there.
-
-**I try to make clear, separate contexts for social and work time.** In social time, please do not bring up work matters with me. When we are having a beer together is *the worst time* to ask about that promotion, or tell me about the project that went wrong. This is a difficult rule to keep, so if we end up on a work topic while we are socializing, please help me call it out and move the conversation to a more appropriate time.
+* **I'm big on work/life balance**. I do not expect you to respond outside of your usual working hours, and I typically don't, either. 
+* **Don't bother pinging me on Skype for Business.** It's an incompatible, unreliable application. I don't leave it running, don't check the messages, and don't respond there. Use Teams, email, Signal, SMS, phone, or carrier pigeon.
+* **I try to make clear, separate contexts for social and work time.** In social time, please do not bring up work matters with me. When we are having a beer together is *the worst time* to ask about that promotion, or tell me about the project that went wrong. This is a difficult rule to keep, so if we end up on a work topic while we are socializing, please help me call it out and move the conversation to a more appropriate time.
 
 One on Ones and Feedback
 ---
