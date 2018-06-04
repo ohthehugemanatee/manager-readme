@@ -68,6 +68,8 @@ Kacem quietly walked over to his workout bag, pulled out a boom box, and pressed
 
 I was reminded of the fight scenes from the Ninja Turtles movies.
 
+![Ninja turtles](https://media.giphy.com/media/dziYpWSBytrDa/giphy.gif)
+(image courtesy of giphy)
 
 The truth is, you have reached mastery when it is play. When it is fun to do. And that sense is attainable by all of us.
 
