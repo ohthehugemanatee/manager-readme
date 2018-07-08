@@ -118,7 +118,7 @@ I ambitiously schedule weekly 1:1s with my direct reports, so it's OK when a few
 * **My feedback is *always* intended constructively**, and I try to deliver it that way. I hope you will do the same for me. I make mistakes and have lots of room for improvement. Please help me grow by giving me honest feedback when it occurs to you!
 
 Performance and Success
----
+===
 
   "The first principle is that you must not fool yourself, and you are the easiest person to fool." -- Richard Feynman
 
@@ -128,12 +128,14 @@ The human brain is an extremely fallible thing. I don't trust mine.
 * **I will communicate my expectations for your role as clearly as I can.**
 * **I will keep running notes on what you've accomplished and learned this year**, as a handy reference for when I need to consider a performance review. I wll share those notes with you in a Github repository. You can read my understanding of your year at any time, and feel free to submit PRs to correct me! *It's in both of our best interests that I have a great understanding of where you are.*
 
-Success for you means:
+Success for you means
+---
 * Taking ownership of your projects. There is no [somebody else's problem field](https://en.wikipedia.org/wiki/Somebody_else%27s_problem) to cover parts of the project to which you aren't assigned. If the project is off track, or missing key information, and failing in some other way, it's up to you to try and correct it. If you're not sure how, or are blocked in any way - that's what I'm here for.
 * Being honest about your own limitations and failures. By acknowledging them, you can adjust your approach for next time. There is nothing wrong with saying "I don't know", or "I'm not good at that yet." 
 * Constantly trying, sometimes failing... and always seeking to improve and learn.
 
-Success for me means:
+Success for me means
+---
 * A team of independent individuals who are growing, and having fun at work
 * A strong personal connection to each member of my team. We don't have to be friends, but I have to know you and your personality.
 * Receiving feedback, learning, and growing along with the team.
