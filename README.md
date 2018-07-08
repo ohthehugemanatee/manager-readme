@@ -81,31 +81,30 @@ Meetings and Work
 ---
 
 * **My working hours are normally 9 - 5, Central European Time.** If I am physically in another timezone, these hours will adjust.  These periods are noted on my calendar.
+* **I expect you to have predictable work hours, too.** I don't mind or care when they are, exactly, but they should be predictable. Let me know about exceptions, and note them on your calendar.
 * **Rescheduling a meeting at the last minute is OK; leaving your team hanging is not.**
 * **Punctuality is not required** - anytime within the first 5 minutes of a meeting is "on time" in my book. Please understand that I mean no disrespect when I show up 3 minutes late, myself.
 * **There is no dress code for 1:1 meetings.** If it's first thing in the morning, feel free to meet in your PJs with your cup of coffee. I care about your brain, not your clothes.
-* **I expect you to have predictable work hours.** I don't mind or care when they are, exactly, but they should be predictable. Let me know about exceptions, and note them on your calendar.
-* **I schedule meetings as 50 minute time slots**, rather than an hour. My brain needs cool-off and prep time between tasks!
 * **"At work" for us means "logged into chat."** You do not have to be *available* - you may have meetings, or coding time, and the chat application may be in Do Not Disturb mode. But you should be virtually present.
-* **Never drop a meeting on my calendar without separately communicating with me about it.** This is partially respect, but also simply giving me the option to tell you personally if that is a good time. The "accepted" status on the meeting is almost meaningless. The same goes for suggested reschedules, or cancellations.
+* **Never drop a meeting on my calendar without separately communicating with me about it.** Send an email, ask in chat, mention it in a meeting, whatever. I will confirm that I can make the time. The "accepted" status on the meeting alone is almost meaningless. The same goes for suggested reschedules, or cancellations.
 * My calendar is often packed, but **my team is my highest priority**. If you need my help, please ping me through any channel and I will make the time.
-* Writing code - writing anything, really - requires large blocks of time. **Please proactively block off coding time in your schedule**, so I don't interrupt your real work with my meetings.
+* Writing code - writing anything, really - requires large blocks of time. **Please proactively block off coding time in your calendar**, so I don't interrupt your real work with my meetings.
 * **Recurring meetings on the calendar are reminders to *have* the meeting**. They will often be rescheduled as necessary.
 
 Communication
 ---
 
 * **I prefer open and frank communication at all times.** We can talk about anything at all, but when problems arise I need you to let me know as clearly and quickly as possible.
-* **I am often a big, bombastic personality.** If you ever feel uncomfortable with me, or my behavior, please let me know. I am happy to tone it down for you.
+* **I am a big, bombastic personality.** If you ever feel uncomfortable with me, or my behavior, please let me know. I am happy to tone it down for you.
 * **I often ask "why."** This isn't a challenge to your decision, it's an honest question! I want to understand the thought process behind your code.
 * **Different communication tools are suited for different kinds of communication.** 
-** Chat (IRC, Slack, Teams) is the default, but we can switch modes when appropriate.
+** Chat (IRC, Slack, MSTeams) is the default, but we can switch modes when appropriate.
 ** Email and digital text are great for lists (like this one!), records, and precise factual communication. They are terrible for emotion, context, and human subjects.
 ** Sensitive and important subjects require non-verbal cues. That means in-person, video-conference, or audio (in order of preference).
 * **Please enable video for our meetings whenever possible.** If you are in transit, or multi-tasking, it is not a good time for the meeting. Let's reschedule.
 * **I'm big on work/life balance**. I do not expect you to respond outside of your usual working hours, and I typically don't, either. 
 * **Don't bother pinging me on Skype for Business.** I don't leave it running, don't check the messages, and don't respond there. Use Teams, email, Signal, SMS, phone, or carrier pigeon.
-* **Social and work time are separate.** When we are having a beer together is *the worst time* to ask about that promotion, or tell me about a project that went wrong. In social time, please do not bring up work matters with me. This is a difficult rule to keep, so if we end up on a work topic while we are socializing, please help me call it out and move the conversation to a more appropriate time.
+* **Social and work time are separate.** We will have lots of fun "team building" and "morale" time hanging out together. When we are having a beer is *the worst time* to ask about that promotion, or tell me about a project that went wrong. In social time, please do not bring up work with me.
 
 1:1 Meetings and Feedback
 ---
@@ -113,7 +112,8 @@ Communication
 I ambitiously schedule weekly 1:1s with my direct reports, so it's OK when a few of them fall off due to vacation, travel, timezones, etc. 
 
 * **You can always ask me for a 1:1 meeting about any subject you like.** 
-* **The 1:1 meeting belongs to you.** I may have some things to bring up with you, but the overall agenda is controlled by *you*. We can talk about anything under the sun.
+* **The 1:1 meeting belongs to you.** I may have some things to bring up with you, but the overall agenda is controlled by *you*. We can talk about anything you want.
+* **The 1:1 meeting is private.** Unless I think you're in imminent physical or career danger, I will not share anything from our meetings.
 * **I believe in frequent, honest, supportive feedback** - mostly because that's just how my brain works. I can't help thinking of improvements, other approaches, and common pitfalls. I will express them to you, not as requirements for you to follow, but as options to consider.
 * **My feedback is *always* intended constructively**, and I try to deliver it that way. I hope you will do the same for me. I make mistakes and have lots of room for improvement. Please help me grow by giving me honest feedback when it occurs to you!
 
