@@ -7,7 +7,6 @@ If you have questions, suggestions, or if you just disagree with how I present m
 
 Finally, this is not a hard and fast set of "rules." This document should set expectations, not define rigid requirements. The ultimate guide is the one we build through experience working together.
 
-
 Me as a human
 ---
 
@@ -15,6 +14,7 @@ I'm a learning addict, stubborn problem solver, opera singer, parent of 3, and a
 
 My management principles
 ---
+> "A leader is best when people barely know he exists. When his work is done, his aim fulfilled, they will say: we did it ourselves." --Sun Tzu
 
 **A good manager is a gardener.** Every individual on my team has different needs and strengths, and looks different when they are flourishing. I cannot *"drive"* your success with my own effort. No amount of cajoling, talking, or hand wringing will make a tomato plant grow. But the plant will grow on its own, if the gardener provides the right environment. Every plant needs different amounts of water, the right soil pH, specific amounts of sunlight, and every person has different needs, too.
 
