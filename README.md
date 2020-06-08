@@ -76,8 +76,11 @@ Meetings and Work
 **You are my highest priority**. If you need my help on anything at all, please ping me through any channel and I will make the time.
 
 **My working hours**
-Mon-Wed-Fri: 9-17:00 CET
-Tue-Thur: 12-20:00 CET
+(updated for COVID childcare needs)
+Mon/Thurs/Fri : 9:30 - 16:30 CET
+Tues/Wed: 13:00 - 20:00 CET
+Sat/Sun: off
+
 If I am physically in another timezone, I will adjust my hours. Outside of these hours I am generally only available for life-and-limb or personal emergencies, or social chatter. 
 
 **Your working hours**
