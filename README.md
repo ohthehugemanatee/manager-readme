@@ -77,8 +77,7 @@ Meetings and Work
 
 **My working hours**
 (updated for COVID childcare needs)
-Mon/Thurs/Fri : 9:30 - 16:30 CET
-Tues/Wed: 13:00 - 20:00 CET
+9:00 - 15:00 CET weekdays
 Sat/Sun: off
 
 If I am physically in another timezone, I will adjust my hours. Outside of these hours I am generally only available for life-and-limb or personal emergencies, or social chatter. 
