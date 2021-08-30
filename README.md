@@ -108,9 +108,9 @@ Communication
 * **I am a big, bombastic personality.** I sometimes unintentionally offend or squash other personalities. If you ever feel uncomfortable with me or my behavior, please let me know personally. I am happy to hear the feedback and to tone it down for you.
 * **I often ask "why."** This isn't a challenge to your decision, it's an honest question! I want to understand the thought process behind your decisions or beliefs.
 * **Different communication tools are suited for different kinds of communication.** 
-** Chat (IRC, Slack, MSTeams) is the default, but we can switch modes when appropriate.
-** Email and digital text are great for lists (like this one!), records, and precise factual communication. They are terrible for emotion, context, and human subjects.
-** Sensitive and important subjects require non-verbal cues. That means in-person, video-conference, or audio (in order of preference).
+  * Chat (IRC, Slack, MSTeams) is the default, but we can switch modes when appropriate.
+  * Email and digital text are great for lists (like this one!), records, and precise factual communication. They are terrible for emotion, context, and human subjects.
+  * Sensitive and important subjects require non-verbal cues. That means in-person, video-conference, or audio (in order of preference).
 * **I'm big on work/life balance**. I do not expect you to respond outside of your usual working hours, and I typically won't, either. 
 * **Social and work time are separate.** We will have lots of fun "team building" and "morale" time hanging out together. When we are having a beer is *the worst time* to ask about that promotion, or tell me about a project that went wrong. In social time, please do not bring up work with me, and don't let me bring it up with you.
 
